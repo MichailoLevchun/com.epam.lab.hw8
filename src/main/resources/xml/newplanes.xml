@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newplanes>
+    <plane>
+        <model>Douglas A-4 Skyhawk</model>
+        <origin>USA</origin>
+        <chars>
+            <type>перехоплювач</type>
+            <seats>1</seats>
+            <weapons>1</weapons>
+            <missiles>4</missiles>
+            <hasRadar>1</hasRadar>
+        </chars>
+        <parameters>
+            <length>12,6</length>
+            <width>8,4</width>
+            <height>4,6</height>
+        </parameters>
+        <price>
+            <amount>76325464</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+    <plane>
+        <model>Douglas A-4 Skyhawk</model>
+        <origin>USA</origin>
+        <chars>
+            <type>перехоплювач</type>
+            <seats>1</seats>
+            <weapons>1</weapons>
+            <missiles>4</missiles>
+            <hasRadar>1</hasRadar>
+        </chars>
+        <parameters>
+            <length>12,6</length>
+            <width>8,4</width>
+            <height>4,6</height>
+        </parameters>
+        <price>
+            <amount>76325464</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+    <plane>
+        <model>Douglas A-4 Skyhawk</model>
+        <origin>USA</origin>
+        <chars>
+            <type>перехоплювач</type>
+            <seats>1</seats>
+            <weapons>1</weapons>
+            <missiles>4</missiles>
+            <hasRadar>1</hasRadar>
+        </chars>
+        <parameters>
+            <length>12,6</length>
+            <width>8,4</width>
+            <height>4,6</height>
+        </parameters>
+        <price>
+            <amount>76325464</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+
+    <plane>
+        <model>Douglas A-4 Skyhawk</model>
+        <origin>USA</origin>
+        <chars>
+            <type>перехоплювач</type>
+            <seats>1</seats>
+            <weapons>1</weapons>
+            <missiles>4</missiles>
+            <hasRadar>1</hasRadar>
+        </chars>
+        <parameters>
+            <length>12,6</length>
+            <width>8,4</width>
+            <height>4,6</height>
+        </parameters>
+        <price>
+            <amount>76325464</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+
+    <plane>
+        <model>Su-7</model>
+        <origin>USSR</origin>
+        <chars>
+            <type>винищувач</type>
+            <seats>1</seats>
+            <weapons>1</weapons>
+            <missiles>0</missiles>
+            <hasRadar>0</hasRadar>
+        </chars>
+        <parameters>
+            <length>9,14</length>
+            <width>13,50</width>
+            <height>2,85</height>
+        </parameters>
+        <price>
+            <amount>1234567</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+</newplanes>

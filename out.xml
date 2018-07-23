@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<planes>
+    <plane>
+        <amount>1234567.0</amount>
+        <currency>dollar</currency>
+        <hasRadar>false</hasRadar>
+        <height>2.85</height>
+        <length>9.14</length>
+        <missiles>0</missiles>
+        <model>Su-7</model>
+        <origin>USSR</origin>
+        <seats>1</seats>
+        <type>винищувач</type>
+        <weapons>true</weapons>
+        <width>13.5</width>
+    </plane>
+    <plane>
+        <amount>4.53334233E8</amount>
+        <currency>euro</currency>
+        <hasRadar>true</hasRadar>
+        <height>3.1</height>
+        <length>12.0</length>
+        <missiles>0</missiles>
+        <model>Heinkel He 70</model>
+        <origin>Germany</origin>
+        <seats>3</seats>
+        <type>розвідник</type>
+        <weapons>true</weapons>
+        <width>14.8</width>
+    </plane>
+    <plane>
+        <amount>7.85565464E8</amount>
+        <currency>dollar</currency>
+        <hasRadar>true</hasRadar>
+        <height>5.2</height>
+        <length>15.33</length>
+        <missiles>5</missiles>
+        <model>Su-39</model>
+        <origin>USSR</origin>
+        <seats>1</seats>
+        <type>перехоплювач</type>
+        <weapons>true</weapons>
+        <width>14.36</width>
+    </plane>
+    <plane>
+        <amount>7.6325464E7</amount>
+        <currency>dollar</currency>
+        <hasRadar>true</hasRadar>
+        <height>4.6</height>
+        <length>12.6</length>
+        <missiles>4</missiles>
+        <model>Douglas A-4 Skyhawk</model>
+        <origin>USA</origin>
+        <seats>1</seats>
+        <type>перехоплювач</type>
+        <weapons>true</weapons>
+        <width>8.4</width>
+    </plane>
+</planes>

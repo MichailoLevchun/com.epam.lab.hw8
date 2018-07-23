@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="planes.xsd">
+    <plane>
+        <model>Su-7</model>
+        <origin>USSR</origin>
+        <characteristics>
+            <type>винищувач</type>
+            <seats>1</seats>
+            <weapons>true</weapons>
+            <missiles>0</missiles>
+            <hasRadar>false</hasRadar>
+        </characteristics>
+        <parameters>
+            <length>9.14</length>
+            <width>13.50</width>
+            <height>2.85</height>
+        </parameters>
+        <price>
+            <amount>1234567</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+
+    <plane>
+        <model>Heinkel He 70</model>
+        <origin>Germany</origin>
+        <characteristics>
+            <type>розвідник</type>
+            <seats>3</seats>
+            <weapons>true</weapons>
+            <missiles>0</missiles>
+            <hasRadar>true</hasRadar>
+        </characteristics>
+        <parameters>
+            <length>12.00</length>
+            <width>14.80</width>
+            <height>3.10</height>
+        </parameters>
+        <price>
+            <amount>453334233</amount>
+            <currency>euro</currency>
+        </price>
+    </plane>
+
+    <plane>
+        <model>Su-39</model>
+        <origin>USSR</origin>
+        <characteristics>
+            <type>перехоплювач</type>
+            <seats>1</seats>
+            <weapons>true</weapons>
+            <missiles>5</missiles>
+            <hasRadar>true</hasRadar>
+        </characteristics>
+        <parameters>
+            <length>15.33</length>
+            <width>14.36</width>
+            <height>5.2</height>
+        </parameters>
+        <price>
+            <amount>785565464</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+
+    <plane>
+        <model>Douglas A-4 Skyhawk</model>
+        <origin>USA</origin>
+        <characteristics>
+            <type>перехоплювач</type>
+            <seats>1</seats>
+            <weapons>true</weapons>
+            <missiles>4</missiles>
+            <hasRadar>true</hasRadar>
+        </characteristics>
+        <parameters>
+            <length>12.6</length>
+            <width>8.4</width>
+            <height>4.6</height>
+        </parameters>
+        <price>
+            <amount>76325464</amount>
+            <currency>dollar</currency>
+        </price>
+    </plane>
+</planes>
